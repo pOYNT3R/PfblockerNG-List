@@ -35220,8 +35220,8 @@ netmon.stat.360safe.com
 netmon.va5.omniture.com
 netmon01.fwmrm.net
 netmoncanarybfrdfe.footprintdns.com
-netmonCanaryRdfe.footprintdns.com
 netmoncanaryrdfe.footprintdns.com
+netmonCanaryRdfe.footprintdns.com
 netmonetize.net
 netmonitor.fi
 netmono.vizu.com
